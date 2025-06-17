@@ -7,13 +7,12 @@ plugins {
 
 android {
     namespace = "com.example.chproject"
-
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.example.chproject"
         minSdk = 21
         targetSdk = 36
-        compileSdk = 36
         versionCode = 1
         versionName = "1.0"
 
