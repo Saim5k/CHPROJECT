@@ -115,7 +115,7 @@
         </LinearLayout>
     </ScrollView>
 
-    <!-- 🔄 ProgressBar Floating at Center -->
+    <!-- 🔄 ProgressBar  -->
     <ProgressBar
         android:id="@+id/progressBar"
         android:layout_width="60dp"
